@@ -1,0 +1,4 @@
+ctransformers==0.2.26
+langchain==0.0.278
+fastapi==0.103.0
+uvicorn==0.23.2
